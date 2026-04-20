@@ -1,6 +1,6 @@
 """
 Inventory Planner - Streamlit UI
-==================================
+===================================
 Invokes the Inventory Planner API on AWS Fargate and displays results.
 
 Run: conda activate ticket-env
